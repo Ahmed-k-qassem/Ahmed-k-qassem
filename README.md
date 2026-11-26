@@ -25,7 +25,3 @@ Java, Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL, MySQL, Flyway, JU
 
 How databases and Hibernate behave under the hood, and getting better at solving problems under time pressure.
 
-### Get in touch
-
-I'm looking for a backend co-op or internship.
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · your.email@example.com
