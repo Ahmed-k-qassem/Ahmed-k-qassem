@@ -14,7 +14,7 @@ The hackathon site was running on Firebase, and I replaced it with a Spring Boot
 **[Library Management System](https://github.com/Ahmed-k-qassem/Library_Management)**
 My main Spring Boot practice project. It's secured with Keycloak and JWTs, and tested against a real MySQL database using Testcontainers. I also used it to learn how to move a codebase from package-by-layer to package-by-feature.
 
-**[Hospital Management System](https://github.com/Ahmed-k-qassem/REPO-NAME)**
+**[Hospital Management System](https://github.com/Ahmed-k-qassem/HMS-Web)**
 Built with plain Servlets, JSP and JDBC, no Spring. I wanted to see what a framework actually does for you. Writing transactions by hand and using `SELECT ... FOR UPDATE` to stop two patients booking the same slot taught me more than any tutorial.
 
 ### What I use
